@@ -1,3 +1,2 @@
 hi for tutorial
-
-used from linux server too.
+used from linux server:
